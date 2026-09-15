@@ -1,0 +1,14 @@
+# Images and trained models
+*.png
+*.pkl
+
+# Downloaded datasets and saved models
+data/
+models/
+
+# Claude Code
+.claude/
+
+# Word lock files and Jupyter checkpoints
+~$*
+.ipynb_checkpoints/
